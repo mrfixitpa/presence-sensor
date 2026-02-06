@@ -1,7 +1,7 @@
 # presence-sensor
 
 ## setup
-*see https://esphome.io/components/captive_portal/ for more details here*
+*see https://esphome.io/components/captive_portal/ for more details about wifi setup*
 
 - plug in usb c
 - wait about a minute
