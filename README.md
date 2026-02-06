@@ -1,6 +1,8 @@
 # presence-sensor
 
 ## setup
+*see https://esphome.io/components/captive_portal/ for more details here*
+
 - plug in usb c
 - wait about a minute
 - open wifi networks on phone/PC and look for "presence-sensor fallback hotspot", and connect to this
