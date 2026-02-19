@@ -11,7 +11,7 @@
 - once connected go to http://192.168.4.1/ on your browser, on the device you just connected to the sensor
 - from there you can pick what wifi network for the device to use, and enter a password
 - in home assistant goto "settings->devices and services", the presense sensor should show up as a discovered device
-  - you'll need to enter an encryption key to add the deevice, this is:
+  - you'll need to enter an encryption key to add the device, this is:
     - utmYBjWAI1uV7/qyZuBOGzbUmBdFV3ICbfte01tIOOU=
 
 ## debug - can't connect to wifi
